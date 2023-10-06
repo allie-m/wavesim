@@ -1,0 +1,10 @@
+[package]
+name = "savannah"
+version = "0.1.0"
+edition = "2018"
+readme = "README.md"
+include = ["src/**/*", "tests/**/*", "Cargo.toml", "README.md"]
+
+[dependencies]
+lazy_static = "1.4.0"
+objc = "0.2.7"
