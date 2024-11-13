@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/mtl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/metal/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/metal/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/metal/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/vk/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/vk/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/vk/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/vk/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/mtl/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/mtl/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/mtl/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/quad/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/quad/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/quad/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/quad/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/savannah/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/spec/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/spec/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/spec/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/opengl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/opengl/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/opengl/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/opengl/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/savannah/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/savannah/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/savannah/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/empty/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/empty/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/empty/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/backend/empty/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/quad" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-examples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-examples/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-examples/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-examples/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-spec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-spec/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-spec/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah-spec/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/savannah/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/quad/target" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/savannah-examples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/savannah-spec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/savannah/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/backend/empty/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/backend/mtl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/backend/opengl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/backend/vk/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/metal/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/savannah/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/spec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

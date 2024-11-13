@@ -1,0 +1,16 @@
+[package]
+name = "cull-canyon"
+version = "0.1.0"
+license = "MIT"
+include = ["src/*", "Cargo.toml", "README.md"]
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
+raw-window-handle = "0.3.3"
+objc = "0.2.7"
+savannah = { path = "../savannah" }
+
+[dev-dependencies]
+winit = "0.22.1"
+png = "0.16.3"
